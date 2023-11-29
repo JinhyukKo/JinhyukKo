@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ### Stacks
-Javascript
-React.js
-Tailwind
-Express.js
+- Javascript
+- React.js
+- Tailwind
+- Express.js
