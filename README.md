@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Working for
-1. www.alagencyofficial.com
-2. www.moun.netlify.app
+### I am Working for.. 
+ 1. www.alagencyofficial.com
+ 2. www.moun.netlify.app
+
+
+### Stacks
+Javascript
+React.js
+Tailwind
+Express.js
