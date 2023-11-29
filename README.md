@@ -20,8 +20,11 @@ Here are some ideas to get you started:
  2. [www.moun.netlify.app](https://moun.netlify.app/)
 
 
-### Stacks
+### Skills
 - Javascript
 - React.js
 - Tailwind
 - Express.js
+
+### + Basic Knowleges of Music Production & Harmony Theory
+- https://youtu.be/9NnhPsgEGnc
