@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 ### + Basic Knowleges of Music Production & Harmony Theory
 - https://youtu.be/9NnhPsgEGnc
 - https://youtu.be/ZptBsMCdx9Y
+- https://soundcloud.com/user-303251267
 ### + 
