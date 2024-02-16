@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 ### Skills
 - Javascript
+- TypeScript
 - React.js
 - Tailwind
-- Express.js
+- Next.js *
 
 ### + Basic Knowleges of Music Production & Harmony Theory
 - https://youtu.be/9NnhPsgEGnc
