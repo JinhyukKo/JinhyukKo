@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Tailwind
 - Next.js *
 
-### + Basic Knowleges of Music Production & Harmony Theory
+### + Basic Knowleges of Music Production , Engineering & Harmony Theory
 - https://youtu.be/9NnhPsgEGnc
 - https://youtu.be/ZptBsMCdx9Y
 - https://soundcloud.com/user-303251267
