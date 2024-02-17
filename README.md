@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 ### Skills
-- Javascript
-- TypeScript
+- JavaScript
+- TypeScript *
 - React.js
 - Tailwind
 - Next.js *
