@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - JavaScript
 - TypeScript *
 - React.js
-- Tailwind
+- Tailwind *
 - Next.js *
 
 ### + Basic Knowleges of Music Production , Engineering & Harmony Theory
