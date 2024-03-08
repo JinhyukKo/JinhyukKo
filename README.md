@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 - https://soundcloud.com/user-303251267
 ### + 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyukKo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyukKo)](https://github.com/anuraghazra/github-readme-stats)
