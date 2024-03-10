@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 - C/C++
 - SASS
 - SCSS
-- 
 
 ### + Basic Knowleges of Music Production , Engineering & Harmony Theory
 - https://youtu.be/ZptBsMCdx9Y
