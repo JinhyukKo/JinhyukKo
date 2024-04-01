@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  2. [www.moun-next.netlify.app](https://moun.vercel.app/)
 
 
-### Skills
+## Skills
+### Web
 - JavaScript
 - TypeScript *
 - React.js
@@ -29,10 +30,12 @@ Here are some ideas to get you started:
 - Node.js
 - Express.js
 - Firebase
-- Python
-- C/C++
 - SASS
 - SCSS
+
+### Algorithm
+- Python
+- C/C++
 
 ### + Basic Knowleges of Music Production , Engineering & Harmony Theory
 - https://youtu.be/ZptBsMCdx9Y
