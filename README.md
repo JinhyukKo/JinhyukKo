@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - React.js
 - Tailwind *
 - Next.js *
+- Java Spring
 - Node.js
 - Express.js
 - Firebase
