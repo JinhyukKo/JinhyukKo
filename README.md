@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,spring,tailwind,firebase,expressjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,java,spring,firebase,expressjs" />
   </a>
 </p>
 - TypeScript *
