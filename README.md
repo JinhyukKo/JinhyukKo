@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 
 ## Skills
-### Web
+### Frontend
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,java,spring,firebase,expressjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass" />
   </a>
 </p>
 - TypeScript *
@@ -38,6 +38,13 @@ Here are some ideas to get you started:
 - Firebase
 - SASS
 - SCSS
+
+### Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,firebase,expressjs" />
+  </a>
+</p>
 
 ### Algorithm
 - Python
