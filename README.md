@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 
 
 ## Skills
-### Web[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Web
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 - TypeScript *
 - React.js
 - Tailwind *
