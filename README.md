@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,firebase,expressjs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,firebase,expressjs,aws,azure" />
   </a>
 </p>
 
