@@ -1,4 +1,3 @@
-# JinHyuk Ko 🇰🇷🇸🇪
 
 <!--
 **JinhyukKo/JinhyukKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Project.. 
+# Project.. 
  1. [www.moun.io](https://bit.ly/4cssOcG)
 
 
