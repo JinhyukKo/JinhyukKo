@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-#### + Music Production , Engineering & Harmony Theory
+###  Music Production , Engineering & Harmony Theory
 <details>
     <summary>Links</summary>
   - https://youtu.be/ZptBsMCdx9Y
