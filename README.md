@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 
 > Period
 > Skills
-> <p align="center">
->  <a href="https://skillicons.dev">
->    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
->  </a>
-> </p>
+> [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+> 
 
 
 
