@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 > ## 1. [www.moun.io](https://bit.ly/4cssOcG)
 > Skills [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,firebase&perline=6)](https://skillicons.dev)
 > [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql&perline=3)](https://skillicons.dev)
-> 
+> Period
+> [more]()
 
 
 
