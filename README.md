@@ -36,10 +36,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### Algorithm
-- Python
-- C/C++
-
 ### + Basic Knowleges of Music Production , Engineering & Harmony Theory
 - https://youtu.be/ZptBsMCdx9Y
 - https://soundcloud.com/user-303251267
