@@ -44,8 +44,11 @@ Here are some ideas to get you started:
 </p>
 
 #### + Music Production , Engineering & Harmony Theory
-- https://youtu.be/ZptBsMCdx9Y
+<summary>
+  - https://youtu.be/ZptBsMCdx9Y
 - https://soundcloud.com/user-303251267
+</summary>
+
 ### + 
 
 
