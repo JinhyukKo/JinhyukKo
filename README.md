@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### + Basic Knowleges of Music Production , Engineering & Harmony Theory
+#### + Music Production , Engineering & Harmony Theory
 - https://youtu.be/ZptBsMCdx9Y
 - https://soundcloud.com/user-303251267
 ### + 
