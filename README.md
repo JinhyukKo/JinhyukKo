@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Working for.. 
- 1. www.alagencyofficial.com
- 2. [www.moun.io](https://bit.ly/4cssOcG)
+### Project.. 
+ 1. [www.moun.io](https://bit.ly/4cssOcG)
 
 
 ## ✎ Skills
