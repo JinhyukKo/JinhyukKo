@@ -28,16 +28,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
   </a>
 </p>
-- TypeScript *
-- React.js
-- Tailwind *
-- Next.js *
-- Java Spring
-- Node.js
-- Express.js
-- Firebase
-- SASS
-- SCSS
 
 ### Backend
 <p align="center">
