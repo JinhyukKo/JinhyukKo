@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## ✎ Skills
-### Frontend
+###  Frontend
 
 <p align="center">
   <a href="https://skillicons.dev">
