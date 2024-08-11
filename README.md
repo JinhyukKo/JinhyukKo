@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > Period
 > Skills
-> [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,firebase&perline=3)](https://skillicons.dev)
+> Skills [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,firebase&perline=3)](https://skillicons.dev)
 
 > [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql&perline=3)](https://skillicons.dev)
 > 
