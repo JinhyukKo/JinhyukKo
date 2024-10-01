@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,expressjs,cs,.net,postgresql,mysql,bash,firebase,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,expressjs,cs,dotnet,postgresql,mysql,bash,firebase,aws,azure" />
   </a>
 </p>
 
