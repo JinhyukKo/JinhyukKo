@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 2. [Compiler](https://github.com/JinhyukKo/compiler)
-> Skills[![My Skills](https://skillicons.dev/icons?i=C=1)]
-> Lex + Yacc
+> Skills [![My Skills](https://skillicons.dev/icons?i=C=1)]
 > expression evaluator that uses Lex and Yacc to parse and evaluate basic mathematical expressions.
 
 
