@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # ∫ Projects
 ## 1. [www.moun.io](https://moun-next.vercel.app)
-> Skills [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,vercel&perline=6)](https://skillicons.dev)
+> Skills [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,vercel)](https://skillicons.dev)
 > ## trouble shooting
 > the free version of Vercel subscription doesn't allow uploading large files
 
