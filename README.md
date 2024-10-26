@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-# [compiler](../compiler)
+# [./compiler)](https://github.com/JinhyukKo/compiler)
 
 
 
