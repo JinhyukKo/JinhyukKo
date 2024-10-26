@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
 ## 2. [Syntax Parser](https://github.com/JinhyukKo/compiler)
 > expression evaluator that uses Lex and Yacc to parse and evaluate basic mathematical expressions.
+> <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+</p>
 
 
 
