@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ### Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,expressjs,mysql,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,azure,aws" />
   </a>
 </p>
 
