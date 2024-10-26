@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 
 
-# [Compiler](https://github.com/JinhyukKo/compiler)
+## 2. [Compiler](https://github.com/JinhyukKo/compiler)
+> Skills[![My Skills](https://skillicons.dev/icons?i=C,lex,yacc=6)]
 
 
 
