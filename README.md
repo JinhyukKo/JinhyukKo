@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 2. [Compiler](https://github.com/JinhyukKo/compiler)
-> Skills[![My Skills](https://skillicons.dev/icons?i=C,lex,yacc=6)]
+> Skills[![My Skills](https://skillicons.dev/icons?i=c=1)]
 
 
 
