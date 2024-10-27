@@ -17,7 +17,7 @@
 ## 3. Finance API
 
 
-#  Skills
+# ∫ Skills
 
 
 <p align="center">  <strong>Frontend</strong></p>
