@@ -20,7 +20,7 @@
 ## 3. Finance API
 
 
-## ✎ Skills
+# ✎ Skills
 ###  Frontend
 
 <p align="center">
@@ -36,17 +36,9 @@
   </a>
 </p>
 
-###  Music Production , Engineering & Harmony Theory
-<details>
-    <summary>Links</summary>
-  - https://youtu.be/ZptBsMCdx9Y
-  - https://soundcloud.com/user-303251267
-</details>
-<summary>
 
-</summary>
 
-### + 
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyukKo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
