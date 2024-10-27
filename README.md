@@ -49,6 +49,6 @@
 ### + 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyukKo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyukKo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinhyukKo&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinhyukKo&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
