@@ -23,7 +23,7 @@
 #  Skills
 
 
-<p align="center">## Frontend</p>
+<p align="center"><h2>Frontend</h2> </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
