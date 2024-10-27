@@ -5,8 +5,7 @@
 # ∫ Projects
 ## 1. [www.moun.io](https://moun-next.vercel.app)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,vercel)](https://skillicons.dev)
-## trouble shooting
->the free version of Vercel subscription doesn't allow uploading large files
+> Music Platform where you can sell and buy songs.
 
 
 
