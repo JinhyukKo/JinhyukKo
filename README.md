@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Jinhyuk's+Github;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Jinhyuk's+Github;Välkommen+till+Jinhyuk's+Github;)](https://git.io/typing-svg)
 
 # ∫ Projects
 ## 1. [www.moun.io](https://moun-next.vercel.app)
