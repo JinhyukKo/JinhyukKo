@@ -22,7 +22,7 @@
 
 #  Skills
 
-<p align="center"><h2>Front-end</h2></p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<p align="center"><h2>Back-end</h2></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,postgresql,azure,aws" />
