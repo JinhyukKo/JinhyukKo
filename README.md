@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 > ## trouble shooting
 > the free version of Vercel subscription doesn't allow uploading large files
 
-
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 
 ## 2. [Syntax Parser](https://github.com/JinhyukKo/compiler)
 > expression evaluator that uses Lex and Yacc to parse and evaluate basic mathematical expressions.
