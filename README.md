@@ -23,6 +23,7 @@
 #  Skills
 
 
+Frontend
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,6 +31,7 @@
   </a>
 </p>
 
+Backend
 
 <p align="center">
   <a href="https://skillicons.dev">
