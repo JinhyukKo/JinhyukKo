@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+Jinhyuk's+Github;Välkommen+till+Jinhyuk's+Github;환영합니다 )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Welcome+To+Jinhyuk's+Github;Välkommen+till+Jinhyuk's+Github;환영합니다 )](https://git.io/typing-svg)
 
 
 # ∫ Projects
