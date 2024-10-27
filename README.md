@@ -31,7 +31,7 @@
   </a>
 </p>
 
-Backend
+<p align="center">  <strong>Backend</strong></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
