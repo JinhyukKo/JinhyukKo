@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?height=100&lines=Welcome+To+Jinhyuk's+Github;Välkommen+till+Jinhyuk's+Github;환영합니다 )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?height=150&lines=Welcome+To+Jinhyuk's+Github;Välkommen+till+Jinhyuk's+Github;환영합니다 )](https://git.io/typing-svg)
 # ∫ Projects
 ## 1. [www.moun.io](https://moun-next.vercel.app)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,vercel)](https://skillicons.dev)
