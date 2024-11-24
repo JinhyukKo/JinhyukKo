@@ -14,10 +14,6 @@
 > expression evaluator that uses Lex and Yacc to parse and evaluate basic mathematical expressions.
 
 
-## 4. Finance API
-[![My Skills](https://skillicons.dev/icons?i=csharp,dotnet,mssql)](https://skillicons.dev)
-
-
 # Skills
 
 
