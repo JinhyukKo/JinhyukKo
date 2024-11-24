@@ -10,9 +10,9 @@
 
 
 ## 3. [Syntax Parser](https://github.com/JinhyukKo/compiler)
-
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 > expression evaluator that uses Lex and Yacc to parse and evaluate basic mathematical expressions.
-> ![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+
 
 
 # Skills
