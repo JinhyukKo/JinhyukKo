@@ -3,7 +3,7 @@
 ## 1. [www.moun.io](https://moun-next.vercel.app)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,vercel)](https://skillicons.dev)
 > Music Platform where you can sell and buy songs.
-> [code]([https://github.com/orgs/moun-io/repositories](https://github.com/moun-io/moun.web))
+> [code](https://github.com/moun-io/moun.web)
 
 ## 2. [moun.v2](https://github.com/orgs/moun-io/repositories)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vercel,java,spring,docker,azure,mysql)](https://skillicons.dev)
