@@ -5,7 +5,7 @@
 > Music Platform where you can sell and buy songs.
 > [code](https://github.com/moun-io/moun.web)
 
-## 2. [moun.v2](https://github.com/orgs/moun-io/repositories)
+## 2. [moun.v2.0](https://github.com/orgs/moun-io/repositories)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vercel,java,spring,docker,azure,mysql)](https://skillicons.dev)
 
 
