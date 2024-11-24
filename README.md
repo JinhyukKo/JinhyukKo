@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernates,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,azure,aws" />
   </a>
 </p>
 
