@@ -6,7 +6,7 @@
 > [code](https://github.com/orgs/moun-io/repositories)
 
 ## 2. [moun.v2](https://github.com/orgs/moun-io/repositories)
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vercel,java,spring,docker,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vercel,java,spring,docker,azure,mysql)](https://skillicons.dev)
 
 
 ## 3. [Syntax Parser](https://github.com/JinhyukKo/compiler)
