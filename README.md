@@ -30,13 +30,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,postgresql,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,postgresql" />
   </a>
 </p>
 
 
+<p align="center">  <strong>CI/CD</strong></p>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,docker,kubernates,azure,aws" />
+  </a>
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinhyukKo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
