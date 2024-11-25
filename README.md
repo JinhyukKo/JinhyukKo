@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,junit,dotnet,java,spring,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,postgres" />
   </a>
 </p>
 
