@@ -17,6 +17,13 @@
 
 # Skills
 
+<p align="center">  <strong>Backend</strong></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,postgres" />
+  </a>
+</p>
 
 <p align="center">  <strong>Frontend</strong></p>
 
@@ -26,13 +33,7 @@
   </a>
 </p>
 
-<p align="center">  <strong>Backend</strong></p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,mysql,postgres" />
-  </a>
-</p>
 
 
 <p align="center">  <strong>CI/CD</strong></p>
