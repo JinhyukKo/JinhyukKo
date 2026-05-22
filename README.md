@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=25&height=150&width=1000&center=true&lines=Welcome+To+Jinhyuk's+Github;Välkommen+till+Jinhyuk's+Github;환영합니다)](https://git.io/typing-svg)
 # Projects
 ## 1. [DVAWS](https://github.com/JinhyukKo/darn-vulnerable-aws)
-[![My Skills](https://skillicons.dev/icons?i=terraform,aws,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,aws,kubernetes,jenkins)](https://skillicons.dev)
 
 ## 2. [Auto Vulnerability Assessment tool] (https://github.com/SoftCrab26/auto-vulnerabilites-assessment-tool-ISMS)
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,powershell,aws,linux,network,k8s)](https://skillicons.dev)
