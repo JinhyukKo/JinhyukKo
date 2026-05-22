@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=terraform,aws,kubernetes,jenkins)](https://skillicons.dev)
 
 ## 2. [Auto Vulnerability Assessment tool] (https://github.com/SoftCrab26/auto-vulnerabilites-assessment-tool-ISMS)
-[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,powershell,aws,linux,k8s)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,powershell,bash,aws,k8s)](https://skillicons.dev)
 
 ## 3. [www.moun.io](https://moun-next.vercel.app)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,vercel)](https://skillicons.dev)
