@@ -1,21 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=25&height=150&width=1000&center=true&lines=Welcome+To+Jinhyuk's+Github;Välkommen+till+Jinhyuk's+Github;환영합니다)](https://git.io/typing-svg)
 # Projects
-## 1. [DVAWS](https://github.com/JinhyukKo/darn-vulnerable-aws)
-[![My Skills](https://skillicons.dev/icons?i=terraform,aws,kubernetes,jenkins)](https://skillicons.dev)
 
-## 2. [Auto Vulnerability Assessment tool](https://github.com/SoftCrab26/auto-vulnerabilites-assessment-tool-ISMS)
+## 1. [Auto Vulnerability Assessment tool](https://github.com/SoftCrab26/auto-vulnerabilites-assessment-tool-ISMS)
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,powershell,bash,aws,k8s)](https://skillicons.dev)
 
-## 3. [www.moun.io](https://moun-next.vercel.app)
+## 2. [www.moun.io](https://moun-next.vercel.app)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,firebase,vercel)](https://skillicons.dev)
 > Music Platform where you can sell and buy songs.
 > [code](https://github.com/moun-io/moun.web)
 
-## 4. [moun.v2.0](https://github.com/orgs/moun-io/repositories)
+## 3. [moun.v2.0](https://github.com/orgs/moun-io/repositories)
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vercel,java,spring,mysql,githubactions,docker,azure)](https://skillicons.dev)
 
 
-## 5. [Syntax Parser](https://github.com/JinhyukKo/compiler)
+## 4. [Syntax Parser](https://github.com/JinhyukKo/compiler)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 > expression evaluator that uses Lex and Yacc to parse and evaluate basic mathematical expressions.
 
